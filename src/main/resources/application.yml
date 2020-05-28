@@ -1,0 +1,6 @@
+micronaut:
+  http:
+    services:
+      vault:
+        urls:
+          - http://localhost:8200
